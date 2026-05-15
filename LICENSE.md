@@ -1,4 +1,4 @@
-# 
+# GIMP for PC | GIMP for Windows updated Extension: texture-painting & HDR-editing is the best GIMP for PC | GIMP for Windows extension, featuring texture-painting and HDR-editing.
 
 
 
